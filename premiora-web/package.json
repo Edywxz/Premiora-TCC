@@ -27,7 +27,7 @@
   "dependencies": {
     "@hcaptcha/react-hcaptcha": "^2.0.2",
     "@stripe/react-stripe-js": "^5.6.1",
-    "@stripe/stripe-js": "^8.11.0",
+    "@stripe/stripe-js": "^9.4.0",
     "@supabase/supabase-js": "^2.105.1",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
