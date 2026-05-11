@@ -36,7 +36,7 @@
     "google-one-tap": "^1.0.6",
     "lucide-react": "^0.577.0",
     "react": "^19.2.6",
-    "react-dom": "^19.2.5",
+    "react-dom": "^19.2.6",
     "react-easy-crop": "^5.5.7",
     "react-intersection-observer": "^10.0.3",
     "react-router-dom": "^7.15.0"
