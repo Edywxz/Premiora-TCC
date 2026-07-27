@@ -34,7 +34,7 @@
     "@types/react-router-dom": "^5.3.3",
     "date-fns": "^4.4.0",
     "google-one-tap": "^1.0.6",
-    "lucide-react": "^0.577.0",
+    "lucide-react": "^1.27.0",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
     "react-easy-crop": "^6.2.3",
