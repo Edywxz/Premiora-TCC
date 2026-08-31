@@ -38,7 +38,7 @@
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
     "react-easy-crop": "^6.2.3",
-    "react-intersection-observer": "^11.0.0",
+    "react-intersection-observer": "^11.0.1",
     "react-router-dom": "^7.18.2"
   },
   "lint-staged": {
