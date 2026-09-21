@@ -39,7 +39,7 @@
     "react-dom": "^19.3.0",
     "react-easy-crop": "^6.2.3",
     "react-intersection-observer": "^11.0.1",
-    "react-router-dom": "^7.18.3"
+    "react-router-dom": "^7.18.4"
   },
   "lint-staged": {
     "*.{json,css,md}": []
